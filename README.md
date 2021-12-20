@@ -19,4 +19,4 @@ This is the code for the paper "Hypergraph Convolutional Network for Group Recom
 
 To run the code, please use the command ```python main.py```.
 
-To change the parameter, you can find them from the file ```config.py```.
+To change parameters, you can find them from the file ```config.py```.
