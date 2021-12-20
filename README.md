@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **GroupRec/GroupRec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+This is the code for the paper "Hypergraph Convolutional Network for Group Recommendation" published in ICDM 2021.
+
+To run the code, please use the command ```python main.py```.
+
+To change the parameter, you can find them from the file ```config.py```.
